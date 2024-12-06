@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+	email = hao.nguyenhoang.cit22@eiu.edu.vn
+	name = NguyenHoangHao
+# Please adapt and uncomment the following lines:
+#	name = unknown
+#	email = Hao-H1410@DESKTOP-1MHP59N.(none)
